@@ -8,7 +8,7 @@ from reminders import add_reminder, add_reminder_part_2, delete_reminder, delete
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
-TOKEN = '5224530546:AAGfFQUFMrBzPSBw7-qRwW8bwc3y8CMgLe8'
+TOKEN = ''
 
 
 def main():
